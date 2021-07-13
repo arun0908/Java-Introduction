@@ -1,5 +1,5 @@
 // POLYMORPHISM & METHOD OVERRIDING 
-package Test;
+package Basics;
 
 public class polymorphism {
 
@@ -147,6 +147,6 @@ class Faculty1 extends polymorphism {
          	System.out.print("Undergrad 2 ");
      	}
      	Person u = new Undergrad();
-		u.method1();
+			u.method1();
 	}
  */

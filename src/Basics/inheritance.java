@@ -1,4 +1,4 @@
-package Test;
+package Basics;
 
 public class inheritance {
 

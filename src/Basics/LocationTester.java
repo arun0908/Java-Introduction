@@ -1,4 +1,4 @@
-package Test;
+package Basics;
 
 public class LocationTester {
 	public static void main(String[] args)

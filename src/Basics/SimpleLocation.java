@@ -1,4 +1,4 @@
-package Test;
+package Basics;
 
 public class SimpleLocation extends Object {
 	private double latitude; // I have changed the type of the variable as private, which means that i cannot

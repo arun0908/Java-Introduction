@@ -1,8 +1,8 @@
-package Test;
+package Basics;
 
 public class Prac {
 	public void add(int num, int num2) // Creating a non static method, so we need to create a object to access this
-										// method. this method is of void type so returns null value.
+																		// method. this method is of void type so returns null value.
 	{
 		int sum = num + num2;
 		System.out.println(sum);

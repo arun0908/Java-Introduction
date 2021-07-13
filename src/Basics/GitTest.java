@@ -1,4 +1,4 @@
-package Test;
+package Basics;
 
 public class GitTest {
     public static void main(String[] args) {
